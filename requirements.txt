@@ -1,0 +1,7 @@
+fastapi[standard]
+requests
+PyYAML
+pydantic
+python-dotenv 
+uvicorn 
+httpx
